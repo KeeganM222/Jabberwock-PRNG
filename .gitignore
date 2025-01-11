@@ -1,0 +1,10 @@
+build/vs2022/.vs
+*.pdb
+*.idb
+*.obj
+*.ipdb
+*.iobj
+*.log
+*.tlog
+*.recipe
+*.ilk
