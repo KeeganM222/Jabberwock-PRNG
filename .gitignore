@@ -1,0 +1,12 @@
+build/.vs
+vendor/build/SHA/.vs
+reference/
+*.pdb
+*.idb
+*.obj
+*.ipdb
+*.iobj
+*.log
+*.tlog
+*.recipe
+*.ilk

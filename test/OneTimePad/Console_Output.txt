@@ -1,0 +1,38 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\DLLI35\Desktop\Projects\Programming Projects\Jabberwock-PRNG\test\OneTimePad> ./OneTimePad-Release.exe
+Jabberwock PRNG One-Time-Pad
+
+Seed: TestSeedData
+Level count: 5
+Seeded Jabberwock PRNG
+
+Input file name: Plain_Text_Original.txt
+Input file contains 375B
+Output file name: Cipher_Data.bin
+
+Processing...
+
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Finished
+
+Cleared Jabberwock PRNG
+PS C:\Users\DLLI35\Desktop\Projects\Programming Projects\Jabberwock-PRNG\test\OneTimePad> ./OneTimePad-Release.exe
+Jabberwock PRNG One-Time-Pad
+
+Seed: TestSeedData
+Level count: 5
+Seeded Jabberwock PRNG
+
+Input file name: Cipher_Data.bin
+Input file contains 375B
+Output file name: Plain_Text_Recovered.txt
+
+Processing...
+
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Finished
+
+Cleared Jabberwock PRNG
+PS C:\Users\DLLI35\Desktop\Projects\Programming Projects\Jabberwock-PRNG\test\OneTimePad>

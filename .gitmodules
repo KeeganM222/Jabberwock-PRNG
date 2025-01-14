@@ -1,0 +1,6 @@
+[submodule "test/Jabberwock-Test/sp800_22_tests"]
+	path = test/Jabberwock-Test/sp800_22_tests
+	url = https://www.github.com/dj-on-github/sp800_22_tests.git
+[submodule "vendor/redistribution/SHA"]
+	path = vendor/redistribution/SHA
+	url = https://www.github.com/pr0f3ss/SHA.git

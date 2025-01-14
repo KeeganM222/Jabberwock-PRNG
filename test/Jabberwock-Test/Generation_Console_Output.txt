@@ -1,0 +1,716 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\DLLI35\Desktop\Projects\Programming Projects\Jabberwock-PRNG\test\Jabberwock-Test> ./Jabberwock-Test-Release.exe
+Jabberwock PRNG Test
+
+Output file count:
+Using default output file count 100
+Output file size:
+Using default output file size 128502B
+Level count:
+Using default level count 4
+
+Generating data file "Data/1.bin"
+Seed value: "VL9`$Xt%;>M=ez$GH'/0dJGiN,KA:.=%Ojhr>I>s:n!p+RBF~Zs61W6sRN#AVwkY"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 139s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/2.bin"
+Seed value: "'dZSs0Rl1`b"h_1V\YcyPvF2o~Z((o%y/i0"H0qK!A*/$fsD$rA+Bk#0@ITz]4y%"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 158s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/3.bin"
+Seed value: "YR#Mn^9f%4Po{0W>b:ls|2X;0{\]_iVc$~WNd+e&I}/c'E/SV(CAWC_.k"6Z8]\4"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 156s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/4.bin"
+Seed value: "4h=uCB,~MTa,&^T,.lYS[IeQ"f:ca<j%.daR>/8vJFe-Oa/{L]?6\3\~Zh8ti<wz"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 175s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/5.bin"
+Seed value: "X$DPT/37U{0Wkwe]j;=m6"#!Z;1%;X.C#>5OV?H|\=tG~7u-l?40u,HOd7XT]e4z"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 151s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/6.bin"
+Seed value: "XsTf"Yj|M7L]ZOVJ*txIyJ85w`ZDeh2s,_Xr1pg2~^Y~1]Yc80%&"XW9QjnT_,z<"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 148s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/7.bin"
+Seed value: "3c3MPvY~a_P:&gI\x8n&-8/mzsbAgkSz#B[gIM1k#/-rCZVJZ}Fj`6`}7}B+6W7n"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 146s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/8.bin"
+Seed value: "WKx1z.)%pWXJ*>~,ttycALy{.<l=(4.y./~:xEbgM22$pJta'&@|O>wJ%:A:SQ"P"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 95s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/9.bin"
+Seed value: "d}U\7][E~G0H#"FEM_(']OR3?O+$q&0!$Iqt<"3Hb1Xy6;u%g_?UQ1npZ!/"9G9`"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 178s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/10.bin"
+Seed value: "/T#JIN"17Gw<I/.a/DqQlK^f?L*u}8Nqie&g?[DYe[l}4Fzqj,;P^>;_C:n|CepQ"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 144s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/11.bin"
+Seed value: "B}49|\d_EM[auF0iz`KeK>CH[}[q$v>c\bq4dooJ{3{H,eDMsTt3nhi0q;>dZsa$"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 164s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/12.bin"
+Seed value: "-T:,fJw6`nG|!^^}4[7ef}Ls.X,FNQvP36GuS35KV{AfcG:i`c"Uh/A2g=j;wd.""
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 145s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/13.bin"
+Seed value: "Ww2AE%+hJIvsVVkInARQ.55Ez|]|z`A+yJrC+66@wPICowS5Hp7?wPvc*[\lp(QR"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 178s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/14.bin"
+Seed value: "xby>\3^\MqbhBSUa1N9#xDn"[gushTw,4u..iaW&"j}b{T`zKDBrl.U%}[yz`36e"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 113s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/15.bin"
+Seed value: "4O[45:92%<hZq4mJeIS;0ww,]!v+o1G<(or(Y4sJ(yvh;QTg0Q\%2?_TWu4auz>#"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 89s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/16.bin"
+Seed value: ";x.](WktmqfHt22W-L#fN@UIB(G|,334E&Y:{;.myRxG%@RePJgoS{#5wk_8SnY'"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 143s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/17.bin"
+Seed value: "&afBNq:=7('1c#ie@DJd,hppr?&*43Jo1):.Adefk@S%tbKrw&#A.;@i/55h7d"W"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 117s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/18.bin"
+Seed value: "K[KSSwW(xP:bUmcQ%0%*!yP3P_!o.7y8oRIU}Lz*3G7UvWrG;;-TGWB^*0)n4p8m"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 121s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/19.bin"
+Seed value: "}/GqL\p;OuNETN0*qorC,t#(;OJ!v?c>jt\al^K>xK)Z*B[sUk;k}0`Ic.Bk\w\="
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 154s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/20.bin"
+Seed value: "2C$'(Z'R2mZ9/d3Ya{b{&iS8pL9v:/UBp_D\h&]Ab(jNE"-YGhQDzUn!U|1rMfHb"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 133s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/21.bin"
+Seed value: "DBE8$mmwcjQ{RiOIqeK["<{M4`6g3Kf-_4]75Stds0P*fMneuOBU>YdwM>pi}meW"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 153s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/22.bin"
+Seed value: "DH*-6jsyGSs'q.~ASdlTo\F04GrF3!`Vp4YL2lSggS93x:X:Ki)kG[b=jT!OO'[M"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 368s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/23.bin"
+Seed value: "12"~srpbqLys0sVo#e\<*:@*)<D)c#C}Rei0_G"cvw_Ufw$z:1s]Kl@1Jmntx<9*"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 256s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/24.bin"
+Seed value: "A0WbO9g;8(Sv[{;zT7V+^QFt[yi+d+tBWX&|o9ZK7"MDp|y1q+~CIrPXSr&pw;_{"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 178s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/25.bin"
+Seed value: "~Oq+QH=[IU;o`%@iyEzSn.Ivwg'v$OeBfr-b<=rKO.f+2>z@+%f4VN+p^x+\;MzD"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 117s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/26.bin"
+Seed value: "uGI0DZ-.>Yo(*uXp^)=b/o=fY~8RET`%A?>)9->6sYpQ|J"SyV6fS0JLbg:`%)'@"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 192s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/27.bin"
+Seed value: "a8p^KfY)G.}!!;U4|7^OD:K})&J*V=eiK:C/`0ua~$[K%53Zz/zg2(f1O\7?-E6."
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 172s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/28.bin"
+Seed value: "xDJ!Y]3?2zb-"v`mjv52bw&H%gQO3MYs\`2WlUfB,L$m]J&U'<:s]?|*n1Ys.uU]"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 135s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/29.bin"
+Seed value: "Ezj^o~"^#cX.04j#LipD92pvCO@taVE~|nOW?Nqf.Z;#/nq{'R=ZzZ?lV#W[B@d]"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 191s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/30.bin"
+Seed value: "t.7l*lV#e{G"Fb_l,shO<.taX@j#Z:%Fp-aHVk4:)djRh>9R0w"]l|]Cr67`dURm"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 95s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/31.bin"
+Seed value: "LGF=;}lVux@[/S:hln<\w.>Wdp7cSPp5er}bwF<-,w]26f'~ysv+rTb(F1E{&e6k"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 185s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/32.bin"
+Seed value: "j$aNI@8GR[Roj%@eot=8COqpaAS57V7]xZf2XV)S5V^T6KnUK:XM6t9]v7?|}Lr\"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 187s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/33.bin"
+Seed value: "Lg2M^dqriRYH>cUOw6*]&(!+W_W2^iV(lR|@8.WxO}$'vp#.'OVo!d*r^"N(`|_z"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 180s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/34.bin"
+Seed value: "AZW*S%:k|y^qM6$en;_B?2Aj`jY#D#BqU?ur}WQqk?7aOEHqn31k$Dj$~[o:vb;`"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 131s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/35.bin"
+Seed value: "Wp+H_.%c2c`X,I?(:_?b9$+Y4Z-$T'&6GN&@D8~*_7AhHTe9(fgKNU^2.|.Qunle"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 184s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/36.bin"
+Seed value: "cDk*{qtgj820JKq,\olI|@AwhQX$XQp_n/.3[T$cjFQD*'TH>UZUV_V4}\TRq|2K"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 74s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/37.bin"
+Seed value: "</:|5t#_Grd_%LL`(t7;n_fm*.c94cGzHhxh(r^'{c6D'Xq</cb:Qkj;ZnZTm+;7"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 183s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/38.bin"
+Seed value: "Pm24@~;he^mI&1i%%V^zk/.#A6|8]q_"W'tZ:<M)c3AkL?n;{@579yHZ~:}n=y:E"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 128s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/39.bin"
+Seed value: "3;st+r;e~yBN/K$??)1%j&<Q_:S|n')IXI)WFSw1L;uu3E%u28DO\ZC&aQEW;Thn"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 156s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/40.bin"
+Seed value: "Lo_3Tb=Gj#b8^N9im"eNy6I&;M-@eYY,)V7N1A%rZ0)Ar#Uo7Ep26"<@[N1A~Nu]"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 163s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/41.bin"
+Seed value: "GwKPZp&Rw~HE40aYA|@Ptw:s/zPTt[ww.sX^_;R<RW?A0XceB.$$R'yZ.ekGv0x6"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 166s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/42.bin"
+Seed value: "([N6q%-pmp[1b4zXkh_0BUmuv]@|cSo!@QCK>PY"M*liqrf!)Ixe7GdxX[Po5DW9"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 125s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/43.bin"
+Seed value: "DR>~gU"f%^i-6dJj$<MJa%V7YG=O~ENX<2bj,@+7K-nI3dsIkIdVFVM[j8{q4KZj"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 131s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/44.bin"
+Seed value: "\5DR|anl*bv7=?<Ys_H-Mp%l2'Kn%wl]'}gG8bke+Rf*&FG4U35QqyRXh#{*4#}o"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 129s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/45.bin"
+Seed value: "ar`fEr(@z8|HKsNpl#~XNqc8qXuG)llf#U%<aVMOk6|eF'Yrk/X^@7|]oFw:p^.4"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 166s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/46.bin"
+Seed value: "ABV[ZQ~PH,):,35gGKwEZ;at!L3@3&P|)+70?TLh_}qaz!(Qv:a*5penRACw0B#,"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 131s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/47.bin"
+Seed value: ""6z9":|7\\?(0n4R[&-q'eYhf4m]>JSSaO!px>Ylf(&,"`{81=mR<15x|2Fgt|08"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 178s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/48.bin"
+Seed value: "h9-\-K@]~'Rx'7F~vM'Vfm!_rLqUi-$N^@q"t2L)hmY+`EaZc2]lsf^;h%p&Z+?h"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 63s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/49.bin"
+Seed value: "]IlK^:&WNJUPj{_01UQ<J?,kj?x]{$0anBOWZU\!Y4p;<nCg;W6Baik+YCV{+FB7"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 106s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/50.bin"
+Seed value: "WTVK8qX^Gg/%b:,xZ~$K^<jwI!gx\|aRYdR<oY#kH~yDA_~pTpsS_A?k6i_`mg4R"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 281s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/51.bin"
+Seed value: "Il#&Ep"!Z69X=tFb|-Z%v8fkrQw:5(uT${-t.i>QCZ5XcVr%-S>=;{bMAWN.1X)w"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 158s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/52.bin"
+Seed value: "imQ^\{D6[#s+>HSb!xiTS}N'j#'@>U\0tt&j0\CH(aGj@.[8'8;/HxuY?HKV3vaf"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 151s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/53.bin"
+Seed value: "^XB0u}<Y}~'jnxnSrBxvhnOBv(79h=tEe*!$8zkwMWwprR3HCiK('}6z(NpELs|}"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 75s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/54.bin"
+Seed value: "mOL=7t)<Ot%%=/O?1&%(WGp-@uME?t|_tWgw^U_5Q1D<cGX5Sj9!ayNdT]FGYg*3"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 106s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/55.bin"
+Seed value: "<*-TavJyta%AqS(80*2&2gq|{2.iaPrO=<$SW[E)05XQ1QE^bVII~(^e8oo+EW*<"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 221s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/56.bin"
+Seed value: ",.}sx?}pE8jaE:8V'[v[{d9`J/ehAyEDC[SPhlv@*Zflv$-?asFh2AI9@nur{M{0"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 150s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/57.bin"
+Seed value: "-kM`P-~D3:Y6CMG"9(.9N36NF&A(oV88jNw1ZQJ`1Pn,!71G)]2uoW#aQ~jC2xA2"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 213s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/58.bin"
+Seed value: "`\>,1eH6$9'ud[;GTmxKs/Io0pGp:Dy&?./'%]^uX5>Yw18*I\Ed%{9@X=':wJ-t"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 93s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/59.bin"
+Seed value: "T(0?{$c]}lV#g1^J4X>Swd2wLg*l<xZuCiLUI$bd]ehDl<IRV0AQV'0FjNyJDq(*"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 98s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/60.bin"
+Seed value: "9UW6#{FX"G!]VX5uu=yD{TE\*6ibtjU893OUPJ.MbktxTNR+%PUYD1UoQGpQY@CV"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 103s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/61.bin"
+Seed value: "/8NW5MQFouJ,[YnewS:j&~|Hwd*K{,v5`lnv:#jJ2rNf6b;VCb!ux=_8D$Ckk>bq"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 120s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/62.bin"
+Seed value: "om917<I=xN<^Pac\>,w`uMF~|C(r)LV]SDm{As^&ZIq?)Vre|P;38F:geUJmVU{g"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 157s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/63.bin"
+Seed value: "7=FtObLpiE^m&zf[4l>fM}?(.z:4$h7'GE95KJHILI_K24)M/}47(|Nx`O6\&}BZ"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 88s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/64.bin"
+Seed value: "-/h?Rp-Z=l;;j^<6uBY}xMW=)v?)z5}o}GU6_8PmB_r8%ch-+NCsy`s<qE%)tKrp"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 149s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/65.bin"
+Seed value: "`-{'u+[iM]V<-AdO"vMzUbI~&(=e5lqm8q/jSDqyyql0\"6}uDQYWK8wv]K!]Qu?"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 224s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/66.bin"
+Seed value: "3K-DD&2'+i{bQ}~`3ErGZy]FKG3h0+4)SsG.bQ&j5}RW9Z!V}c/`qwZ3Z-WFMlq6"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 100s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/67.bin"
+Seed value: ".|SJ>1<7hqnG{jh`"\R@;vNm'Z3pTxk,RtQM9aswCw~8sI]FiNaArrZr,gICP(W>"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 128s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/68.bin"
+Seed value: "/2C?eaLU,,\}wB(0's_(A`D'u\BGh=7qGOObrh"r}=<4GM6W==D*O8?CT7?T;}/Y"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 154s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/69.bin"
+Seed value: "7*fU_j?@V):TdnLwT"So<T`E?O4'05~vlg(J~:!6VjXWd;Ff4fASqts3lh5M[skf"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 119s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/70.bin"
+Seed value: ":7Kg0<.q9!_IwP(>P^y5bOH6!GOlaiLCpVYc":,]Jv/h&`Y!|#$v%d?v_EPCkhp5"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 128s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/71.bin"
+Seed value: "iGq,/U$P,QKq]')'@a&K&t]`W\{4b%Kl*8,h*5*%W*_/?M8X_-5aN'X^z<E_6157"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 173s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/72.bin"
+Seed value: "y-w%)UtyDVEpUMttBUxNN5_';^LW=KG_fx;aiM}PM{n#RY,#V%6;h#iyc(M0f]Ja"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 96s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/73.bin"
+Seed value: "z^u8}hGrKdb73ER(&<Uw]TsnKN>D^?L_4j\qGjn4zeA-+~PZ]P,3W/7\#;zUz$xu"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 84s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/74.bin"
+Seed value: "]]I~iJBawt*w}.)=tMd(E1@\P0RrVestQa)M3iyCDqZ/{}h{X2\vB\JyadXSWf^1"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 129s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/75.bin"
+Seed value: "45YQEF<H\+cc"MeM^h,E\E+s27"h{_%RR)::Nd6gv6M^OoifA,RBbPX{N^@yf^gq"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 148s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/76.bin"
+Seed value: "OPuHpHVyZ5VbB(|jE~sl&zbknU3yLvE=!$gI~RGx=_*2>*b,bKA]U.x*k"2$IJAo"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 162s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/77.bin"
+Seed value: "c]<2_C}/y>{r-?JO<UQJ^21^2TnWi0*bEDHB\Rs()hFL&=x:TvD/#5dA']JkYv$q"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 134s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/78.bin"
+Seed value: "D435dK>x;M=&Vg~w4H/'4wxk~{9:4MLK@_68N<~PWLiwCK_?U8+XJUYBPoYEhWak"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 97s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/79.bin"
+Seed value: "~6%+VBrZ"ZXK/iX`^CBRGVPXTa=_={:M3;i}_@aao7oT8J"qfWL4`fo&YD5'-L4V"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 106s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/80.bin"
+Seed value: "'sclO'ZKXI>XtUNWC^AHkX^z(}Xc_B*Z{f`ew4d=vcB,tcF=&IK*nh&$D2?zNkY/"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 136s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/81.bin"
+Seed value: "q,Tr0+;c^quRzYDN^/oT~ZpCLEt528_Pq^g/<"B,W`)1LazgnLS_Ga@!NzR1w/J~"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 100s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/82.bin"
+Seed value: "MS|L9`dH!4T2t)XWqq@F|GkvW%_1rD(@li(3l.M3Z;]Jzqt*c(!*ym;\;6,8m?=;"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 108s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/83.bin"
+Seed value: "[epL#e\ju{9sJi"QINX{c=RKnx[;MrDNV},hsB\VBZd7iz~GE(5A[+m6aW3@5S*z"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 97s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/84.bin"
+Seed value: "NdN3Xv1<;6'g8%3reHF)<OGuNo/Tu7jP]#)xdK2[OH`s:4Qi$fL%}Oh!`9,Lr]"3"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 134s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/85.bin"
+Seed value: "+*q+73/N7+ACAUf3x<2%NH"foL}L\u)+<TQ0W$S@0C'`t'+u1VS=>8M"5&T:k1"5"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 127s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/86.bin"
+Seed value: "Ac,/j(y;NHU^Du7?:Q|x"8og_aLh*wm*K;,|V,~Fs|"&T{HvyBR*,>x{}2*=fi^t"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 156s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/87.bin"
+Seed value: "%mCkp%+*G^fe&4&i%1Fk~glQ<Z?Mq:<?Asx.{]#k,'xy[%S}F8~laB&*n4Vm\|)1"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 174s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/88.bin"
+Seed value: "s.%eJqgwf2XcpSTkh(l4dyq[?(EqoM[8/0Mg6\""RcVYH$7t+.V]f`/fBxCm!NPf"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 122s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/89.bin"
+Seed value: "s*94>@wbXd5pQnY}:tkxq[hl.ti*Rv=]4-Zg2lSUwRgQpdnxWK|3vUjiB,wD|_zR"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 109s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/90.bin"
+Seed value: "Ba,O0)dpq^d~S5>hc<hI:jXANSW?E-8Q^yllce0'K8g(ckJ:9pn=[VVej2BG$4zv"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 168s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/91.bin"
+Seed value: "HhTN"X<}!t!f]y@0HnBD?0<t9\ST[jcoLC=Kw^ic?T0A+X1kN*Ff@5S.XHmn(vD;"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 110s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/92.bin"
+Seed value: "`s<-s<.zl3]S>>t#!IHo&\u"lZ,2)atXieArDPHjhe]b`bXKP:_jS&hj#?{/L#*%"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 204s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/93.bin"
+Seed value: "JY`VyfPM@y1T7+b!}_F^~ESrpGg|bx\j-0XuyF2jedQEicFegX?f`4~z:<&62rlm"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 150s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/94.bin"
+Seed value: "yhB:s>m<Z$u<Pk0&<nsRAf1uW@#At2XA-><|Kxek>aBDIK$+"QY9fe;*C$=Aco(#"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 117s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/95.bin"
+Seed value: "xEQhsgtFz_m/Tq?z0i!,,^0h|liEm4Q@x!|nVt'oQrKpoUE?!yusJexQtYT3N%uN"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 153s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/96.bin"
+Seed value: "*fx[liT5Mz*<IH<FYbAzc.`+>k]89:di!yi,@qU5K{Zxto^IzCSm$N-Ho1w~hbUR"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 125s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/97.bin"
+Seed value: "U]f957|X/c8KUSIYXU#)u\Z4saNU[GosZ:p_qH)dr&yoD(2)%bbW3;^:LeEdY]PC"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 142s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/98.bin"
+Seed value: ")7q(T\Cq@Z&RK%<LEwz?q/}P"r#)[cP$\TK(;~U>(4RlIU%0rWiNGt[,9C1Tvyc#"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 211s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/99.bin"
+Seed value: "-]Jl[y0eqqzL&X-s]>8~FAYpuBq]2g_u"QI::L2<g"_2TrNyZ$7!pBQVi6%22chU"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 213s
+Cleared Jabberwock PRNG
+
+Generating data file "Data/100.bin"
+Seed value: "n7M#C@UVp]^38na#:$g|kN:5H7$wtpQyZkD#Td9Tgkk5YD#[U1U=bkN0k]^f{W#U"
+Level count: 4
+Seeded Jabberwock PRNG
+0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, Generated in 135s
+Cleared Jabberwock PRNG
+
+PS C:\Users\DLLI35\Desktop\Projects\Programming Projects\Jabberwock-PRNG\test\Jabberwock-Test>

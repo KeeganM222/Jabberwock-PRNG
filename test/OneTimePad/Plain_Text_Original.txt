@@ -1,0 +1,7 @@
+Hello world,
+
+This is a test of the Jabberwock PRNG's one-time-pad program.
+
+A very simple cryptosystem relying on randomness in single-use keys.
+
+This cryptosystem is not a true one-time-pad since the data output from the Jabberwock PRNG is not truly random, but the better the pseudo-random source, the closer to perfect information security the cryptosystem becomes.
